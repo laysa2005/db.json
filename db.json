@@ -1,4 +1,6 @@
 {
+  "Musicas": [
+  {
 "id": 1,
 "nome":"Abalo emocinal",
 "cantor":"Luan Santana",
@@ -33,6 +35,8 @@
 "album":"Numanice",
 "lançamento":"2021",
 },
+  ],
+  "Musicas1":[
 {
 "id": 6,
 "nome":"Toma Toma Vapo Vapo",
@@ -68,3 +72,5 @@
 "album":"Pra ver o sol brilhar",
 "lançamento":"2008",
 },
+]
+}
